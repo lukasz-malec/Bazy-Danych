@@ -1,0 +1,2 @@
+Baza danych linii lotniczej. 
+Dla utworzonej bazy danych proszę napisać trzy dowolne procedury.
