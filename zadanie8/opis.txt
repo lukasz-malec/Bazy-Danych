@@ -1,0 +1,1 @@
+Trzy dowolne wyzwalacze (dla różnych poleceń) utworzone dla bazy danych z ćwiczenia 7
