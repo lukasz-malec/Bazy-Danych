@@ -1,0 +1,8 @@
+Dla bazy danych z poprzedniego ćwiczenia proszę :
+
+1) wyświetlić przy pomocy funkcji nazwiska pasażerów oraz klasę podróży (dla każdego lotu)
+
+2) usunąć jeden z samolotów oraz jeden z lotów
+
+3) ponownie wyświetlić przy pomocy funkcji nazwiska pasażerów oraz klasę podróży (dla każdego lotu) z uwzględnieniem pkt 2.
+
