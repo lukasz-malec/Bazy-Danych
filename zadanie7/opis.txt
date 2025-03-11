@@ -1,0 +1,4 @@
+Proszę utworzyć bazę danych obsługującą klientów banków. 
+Klienci posiadają kilka rodzajów kont: zwykłe (w złotówkach), oszczędnościowe i walutowe.
+Klient ma możliwość dokonywania operacji pomiędzy kontami swoimi oraz innych użytkowników, założenia lokaty oraz wzięcia kredytu.
+Przy pomocy transakcji proszę naliczać odsetki dla kont oszczędnościowych oraz od kredytów
