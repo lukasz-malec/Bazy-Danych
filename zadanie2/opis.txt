@@ -1,0 +1,8 @@
+Dla bazy danych sklepu z artykułami papierniczymi należy wyświetlić:
+    - wszystkie dane ze wszystkich tabel
+    - wszystkie firmy, których nazwa to: 'Abc'
+    - nazwy wszystkich firm w kolejności alfabetycznej
+    - trzy produkty, których liczba w magazynie przekracza 30 sztuk
+    - fakturę zakupu na najwyższą kwotę
+    - wszystkie zakupione produkty bez dwóch najdroższych
+    - nazwę produktu, liczbę sztuk, cenę oraz numer faktury, na której się znajduje
