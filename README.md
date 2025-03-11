@@ -4,4 +4,4 @@
 Semestr 5 
 
 
-repozytorium na skrypty napisane w SQL dla MySQL 
+Repozytorium na skrypty napisane w SQL dla MySQL 
